@@ -1,0 +1,50 @@
+Feature Name,Value
+SBP,0
+DBP,1
+MBP,2
+GCS,3
+HR,4
+RR,5
+Temperature,6
+FiO2,7
+Glucose,8
+Bilirubin,9
+O2 Saturation,10
+Sodium,11
+Potassium,12
+Magnesium,13
+Phosphate,14
+Calcium Total,15
+WBC,16
+Hct,17
+Hgb,18
+Chloride,19
+ALT,20
+ALP,21
+AST,22
+Albumin,23
+Lactate,24
+LDH,25
+pH Blood,26
+PO2,27
+PCO2,28
+Total CO2,29
+Monocytes,30
+Neutrophils,31
+Lymphocytes,32
+PT,33
+PTT,34
+BUN,35
+Creatinine Blood,36
+Creatinine Urine,37
+MCH,38
+MCHC,39
+MCV,40
+RDW,41
+Platelet Count,42
+RBC,43
+Mechanical Ventilation,44
+KCl,45
+Albumin 25%,46
+Albumin 5%,47
+Free Water,48
